@@ -1,0 +1,98 @@
+! =========================================================
+! Conservative Ads & Tracking Blocklist
+! Focus: advertising/tracking infrastructure
+! Avoids blocking main website domains
+! =========================================================
+
+! ---------- Google Ads / DoubleClick ----------
+||doubleclick.net^
+||doubleclick.com^
+||doubleclickbygoogle.com^
+||googlesyndication.com^
+||googleadservices.com^
+||googleads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+||pagead1.googlesyndication.com^
+||securepubads.g.doubleclick.net^
+||stats.g.doubleclick.net^
+||ad.doubleclick.net^
+||static.doubleclick.net^
+
+! ---------- Google Ad / Tracking endpoints ----------
+||adservice.google.com^
+||adservice.google.hu^
+||googleads.g.doubleclick.net^
+||www.googleadservices.com^
+
+! ---------- Microsoft Advertising ----------
+||ads.microsoft.com^
+||adnxs.com^
+||bat.bing.com^
+
+! ---------- Meta / Facebook Ads tracking ----------
+||an.facebook.com^
+||pixel.facebook.com^
+||connect.facebook.net^
+||facebook.net^
+
+! ---------- Amazon Advertising ----------
+||amazon-adsystem.com^
+||aax.amazon-adsystem.com^
+||assoc-na.assoc-amazon.com^
+
+! ---------- Criteo ----------
+||criteo.com^
+||criteo.net^
+||criteo.mgr.consensu.org^
+
+! ---------- Taboola ----------
+||taboola.com^
+||trc.taboola.com^
+||cdn.taboola.com^
+
+! ---------- Outbrain ----------
+||outbrain.com^
+||outbrainimg.com^
+||widgets.outbrain.com^
+
+! ---------- TikTok advertising / tracking ----------
+||analytics.tiktok.com^
+||ads.tiktok.com^
+||business-api.tiktok.com^
+
+! ---------- Yahoo advertising ----------
+||ads.yahoo.com^
+||advertising.yahoo.com^
+||beap.gemini.yahoo.com^
+
+! ---------- Tracking / telemetry ----------
+||scorecardresearch.com^
+||quantserve.com^
+||omnitagjs.com^
+||mathtag.com^
+||rlcdn.com^
+||bluekai.com^
+||demdex.net^
+||everesttech.net^
+||krxd.net^
+
+! ---------- Generic ad networks ----------
+||adform.net^
+||adsrvr.org^
+||advertising.com^
+||serving-sys.com^
+||2mdn.net^
+||3lift.com^
+||rubiconproject.com^
+||pubmatic.com^
+||openx.net^
+||smartadserver.com^
+||casalemedia.com^
+||contextweb.com^
+||yieldmo.com^
+||lijit.com^
+||sharethrough.com^
+||sonobi.com^
+||33across.com^
+||sovrn.com^
+||gumgum.com^
