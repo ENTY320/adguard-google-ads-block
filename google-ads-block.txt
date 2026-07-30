@@ -92,6 +92,101 @@
 ||yieldmo.com^
 ||lijit.com^
 ||sharethrough.com^
+
+
+! =========================================================
+! GOOGLE ADS / ADSENSE / DOUBLECLICK - AGGRESSIVE
+! Blocks advertising infrastructure and ALL subdomains
+! =========================================================
+
+! ---------------------------------------------------------
+! DoubleClick
+! ---------------------------------------------------------
+
+||doubleclick.net^
+||doubleclick.com^
+
+! ---------------------------------------------------------
+! Google advertising
+! ---------------------------------------------------------
+
+||googleadservices.com^
+||googlesyndication.com^
+||googleads.com^
+||googleads.g.doubleclick.net^
+
+! ---------------------------------------------------------
+! Google AdSense / publisher advertising
+! ---------------------------------------------------------
+
+||adsense.com^
+||adsense.google.com^
+||pagead.googlesyndication.com^
+||pagead2.googlesyndication.com^
+||pagead1.googlesyndication.com^
+
+! ---------------------------------------------------------
+! Google Ad serving
+! ---------------------------------------------------------
+
+||adservice.google.com^
+||adservice.google.hu^
+||adservice.google.co.uk^
+||adservice.google.de^
+||adservice.google.fr^
+||adservice.google.es^
+||adservice.google.it^
+||adservice.google.ca^
+||adservice.google.com.au^
+||adservice.google.co.jp^
+
+! ---------------------------------------------------------
+! DoubleClick ad / publisher endpoints
+! ---------------------------------------------------------
+
+||ad.doubleclick.net^
+||ads.doubleclick.net^
+||adclick.g.doubleclick.net^
+||bid.g.doubleclick.net^
+||cm.g.doubleclick.net^
+||fls.doubleclick.net^
+||googleads.g.doubleclick.net^
+||g.doubleclick.net^
+||pagead.l.doubleclick.net^
+||pubads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||static.doubleclick.net^
+||survey.g.doubleclick.net^
+||stats.g.doubleclick.net^
+
+! ---------------------------------------------------------
+! Google publisher ad infrastructure
+! ---------------------------------------------------------
+
+||googletagservices.com^
+||googletagmanager.com^
+
+! ---------------------------------------------------------
+! Google Ad Manager / Publisher
+! ---------------------------------------------------------
+
+||googlesyndication.com^
+||googleadservices.com^
+||googleads.g.doubleclick.net^
+
+! ---------------------------------------------------------
+! Google Ad Safety / verification
+! ---------------------------------------------------------
+
+||adsafeprotected.com^
+||googleweblight.com^
+
+! ---------------------------------------------------------
+! Newer Google search-ad serving domains
+! ---------------------------------------------------------
+
+||adsensecustomsearchads.com^
+||syndicatedsearch.goog^
 ||sonobi.com^
 ||33across.com^
 ||sovrn.com^
